@@ -1,6 +1,6 @@
-<<<<<<< HEAD
+
 theme: jekyll-theme-leap-day
-=======
+
 # Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
@@ -84,4 +84,4 @@ deploy:
   type: git
   repository: github.com/huangsihong/hsh.github.io.git
   branch: master
->>>>>>> 提交
+
